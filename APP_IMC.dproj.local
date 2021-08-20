@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/04 09:37:18.000.844,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 09:40:22.000.829,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmPrincipal.pas</Transaction>
+    <Transaction>2021/08/04 09:40:22.000.829,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/08/04 09:40:38.000.398,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\APP_IMC.dproj</Transaction>
+    <Transaction>2021/08/04 10:13:52.000.356,=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 10:14:22.000.705,C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.dfm=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmRequisitos.dfm</Transaction>
+    <Transaction>2021/08/04 10:14:22.000.705,C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmRequisitos.pas</Transaction>
+    <Transaction>2021/08/04 10:41:08.000.039,=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 10:41:32.000.290,C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.dfm=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmResultado.dfm</Transaction>
+    <Transaction>2021/08/04 10:41:32.000.290,C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uFrmResultado.pas</Transaction>
+    <Transaction>2021/08/04 10:56:50.000.230,=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas</Transaction>
+    <Transaction>2021/08/04 10:57:27.000.165,C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\Unit1.pas=C:\Users\Guilherme\Desktop\guilherme-ads\APP_Indice\uDadosPessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
